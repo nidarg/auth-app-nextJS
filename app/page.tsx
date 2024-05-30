@@ -1,6 +1,6 @@
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
-import { LoginButton } from '@/components/auth/loggn-button';
+import { LoginButton } from '@/components/auth/login-button';
 
 export default function Home() {
   return (
